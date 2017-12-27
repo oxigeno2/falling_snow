@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Plugin name="Falling Snow" lan="LAN_SNOW_NAME" version="1.0" date="2017-12-25" compatibility="2.0" installRequired="true" >
+	<author name="OxigenO2" url="https://github.com/oxigeno2" />
+	<summary lan="LAN_SNOW_SUMMARY">Animation of falling snow on your site.</summary>
+	<description lan="LAN_SNOW_DESCRIPTION">Animation of falling snow on your site. Enjoy a White Christmas, at least on your site.</description>
+	<keywords>
+		<word>generic</word>
+		<word>snow</word>
+		<word>falling</word>
+	</keywords>
+	<category>misc</category>
+	<copyright></copyright>
+	<adminLinks>
+		<link url="admin_config.php" description="" icon="images/snow_icon_32.png" iconSmall="images/snow_icon_16.png" icon128="images/snow_icon_128.png" primary="true" >LAN_CONFIGURE</link>
+	</adminLinks>
+	<pluginPrefs>
+		<pref name='snow_on'>0</pref>
+		<pref name='snow_minsize'>10</pref>
+		<pref name='snow_maxsize'>20</pref>
+		<pref name='snow_newon'>500</pref>
+		<pref name='snow_color'>rgb(255, 255, 255)</pref>
+	</pluginPrefs>
+</e107Plugin>
