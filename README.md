@@ -1,2 +1,4 @@
-# falling_snow
-Animation of falling snow on your site.
+# Falling Snow
+Animation of falling snow on your site. Enjoy a White Christmas, at least on your site.
+
+
